@@ -16,7 +16,7 @@ Did some research about the production of the whole application as a product.
 ## July 5-7, 2019
 
 **Progress :** 
-Made a word doc file inclusive of my research, representating 3 phases of the app - 
+Made a word doc file inclusive of my research, representing 3 phases of the app - 
 * UI/UX Design
 * Client-side Logic
 * Backend
