@@ -35,3 +35,13 @@ Made a word doc file inclusive of my research, representing 3 phases of the app 
 
 **Links :**
 * [Click here to see this progress](https://github.com/ashish7zeph/project-kashur/tree/master/temp_logs/%231)
+
+## July 10, 2019
+
+**Progress :**
+* Updated the Firebase synced app with `Login with Facebook` option
+* Made use of Facebook SDK from developers.facebook.com and generated `App ID` and `App Secret` unique for the app, that is used in Firebase - sign in option using `Facebook`
+
+**Links :**
+* [Click here to see this progress](https://github.com/ashish7zeph/project-kashur/tree/master/temp_logs/%232)
+
