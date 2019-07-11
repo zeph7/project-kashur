@@ -45,3 +45,8 @@ Made a word doc file inclusive of my research, representing 3 phases of the app 
 **Links :**
 * [Click here to see this progress](https://github.com/ashish7zeph/project-kashur/tree/master/temp_logs/%232)
 
+## July 11, 2019
+
+**Progress :** 
+Read about some tools and infrastructure needed to build better mobile apps
+
