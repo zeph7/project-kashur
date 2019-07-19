@@ -50,3 +50,8 @@ Made a word doc file inclusive of my research, representing 3 phases of the app 
 **Progress :** 
 Read about some tools and infrastructure needed to build better mobile apps
 
+## July 15-19, 2019
+
+**Progress :** 
+Did some digging onto the tools used for backend, as for mobile application development platform
+
