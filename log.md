@@ -50,8 +50,21 @@ Made a word doc file inclusive of my research, representing 3 phases of the app 
 **Progress :** 
 Read about some tools and infrastructure needed to build better mobile apps
 
-## July 15-19, 2019
+## July 15-31, 2019
 
 **Progress :** 
 Did some digging onto the tools used for backend, as for mobile application development platform
 
+## August 1-10, 2019
+
+**Progress :**
+Got and understood the structure and skeleton of the Credia app
+
+## August 11, 2019
+
+**Progress :**
+* Initialised with the making of the app with Onboarding Activity
+* Made use of Sliding ViewPager with custom adapter along with the use of [Material View Pager Dots Indicator](https://github.com/tommybuonomo/dotsindicator)
+
+**Links :**
+* [Click here to see this progress](https://github.com/ashish7zeph/project-kashur/tree/master/temp_logs/%233)
